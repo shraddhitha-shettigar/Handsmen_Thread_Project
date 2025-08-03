@@ -9,6 +9,9 @@ Welcome to the **HandsMen Threads CRM** – a comprehensive Salesforce-based sol
 This CRM system is built using **Salesforce Developer Edition** and is aimed at improving business processes for retail operations. From managing customers to tracking inventory and automating rewards, this project offers a complete retail CRM experience.
 
 ---
+🎥 Click below to watch the demo:
+HandsMen Threads CRM – Demo Video (Google Drive)
+---
 
 ## 🛠️ **Modules & Features**
 
