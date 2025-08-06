@@ -10,7 +10,7 @@ This CRM system is built using **Salesforce Developer Edition** and is aimed at 
 
 ---
 **🎥 Click below to watch the demo:**  
-[HandsMen Threads CRM – Demo Video (Google Drive)](YOUR_PUBLIC_DRIVE_LINK_HERE)
+[HandsMen Threads CRM – Demo Video (Google Drive)](https://drive.google.com/file/d/1B5K8LbN0RjAmjNaWH-BhRAeEVDv_5Nqn/view?usp=sharing)
 
 ---
 
