@@ -43,6 +43,6 @@ This CRM system is built using **Salesforce Developer Edition** and is aimed at 
 - **Email Alerts** for order and inventory notifications.
 
 ---
-🙏 **Thank you for visiting the project!**  
+**Thank you for visiting the project!**  
 Don’t forget to ⭐ star the repo if you found it helpful.
 
